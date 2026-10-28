@@ -1,0 +1,10 @@
+# Local user queue/settings
+config.ini
+
+# Runtime files
+runtime/
+debug-ocr/
+*.log
+capture.png
+Thumbs.db
+desktop.ini
